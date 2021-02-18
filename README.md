@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+This application was developed to exercise a messaging process using chatter api
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
